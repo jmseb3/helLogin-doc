@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="Start.md">
+
+    <toc-element topic="Start.md"/>
+    <toc-element topic="Installation.md"/>
+    <toc-element topic="How-To-Use.md">
+        <toc-element topic="Common.md"/>
+        <toc-element topic="Google.md"/>
+        <toc-element topic="GitHiub.md"/>
+        <toc-element topic="Apple.md"/>
+    </toc-element>
+    <toc-element topic="Edit-UI-Button.md"/>
+</instance-profile>
